@@ -1,0 +1,30 @@
+.section-title{
+    margin-bottom: 50px;
+
+}
+
+#whycodeacademy .row .row.col-md-6 .col-md-6 h1{
+    font-weight: 900;
+
+
+}
+
+#whycodeacademy .row .row.col-md-6 .col-md-6 p {
+    margin-top: 20px;
+    text-overflow: ellipsis;
+    
+
+}
+
+#whycodeacademy .row .row.col-md-6 .col-md-6 a{
+   position: relative;
+   top: 30px;
+   color: black;
+   font-weight: 900;
+
+
+}
+
+#whycodeacademy .row .row.col-md-6 .col-md-6{
+    position: relative;
+}
